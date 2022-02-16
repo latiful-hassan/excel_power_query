@@ -1,2 +1,11 @@
 # excel_power_query
-Workbooks created based on data transformations in Power Query.
+- Using Power Query to transform data to then load into Excel to achieve cleaner, useable data through many of its features:
+  - Filling
+  - Transposing
+  - Conditional Columns
+  - Time Calculations
+  - Cleaning Nested Data
+  - Table Variables
+  - Un/Pivoting
+  - Appending 
+  - Merging
